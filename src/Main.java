@@ -3,5 +3,6 @@ public class Main {
         System.out.println("Привет");
         Bye bye = new Bye();
         bye.sayBye();
+        //код для всех
     }
 }
